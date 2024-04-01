@@ -1,0 +1,1 @@
+Data tidying and cleaning of records on an excel spreadsheet consisting of over a million records , various techniques and tools were used in order to accomplish this such as visualization and extraction of data
